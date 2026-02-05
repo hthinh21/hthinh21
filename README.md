@@ -5,8 +5,8 @@
 
 ## 💡 About Me
 
-- 🎓 Software Engineer from Vietnam 🇻🇳
-- 📱 Interested in **Mobile (Flutter)** & **Web Development** & AI Automation
+- 🎓 Software Engineer from Vietnam
+- 📱 Interested in **Mobile (Flutter)** & **Web Development** & **AI Automation**
 - 💻 Languages: JavaScript, Dart, C#, C++, C
 - 🌱 Currently improving **Full-stack skills**
 - 🎯 Goal: Build real-world applications & solid backend logic
