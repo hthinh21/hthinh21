@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Do Hoang Thinh</h1>
+<h3 align="center">Software Engineer</h3>
 
-<!--
-**hthinh21/hthinh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineer from Vietnam 🇻🇳
+- 📱 Interested in **Mobile (Flutter)** & **Web Development** & AI Automation
+- 💻 Languages: JavaScript, Dart, C#, C++, C
+- 🌱 Currently improving **Full-stack skills**
+- 🎯 Goal: Build real-world applications & solid backend logic
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter" /><br/>
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,nodejs" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Contact
+
+- Facebook: [Hoàng Thịnh](https://www.facebook.com/thinh333)
+- LinkedIn: [Do Hoang Thinh](https://www.linkedin.com/in/do-hoang-thinh-666ab62bb/)
