@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Do Hoang Thinh</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer from Earth</h3>
 
 ---
 
